@@ -1,0 +1,2 @@
+glean_id,glean_date,glean_text,glean_type,glean_location,invoice_id,canonical_vendor_id
+1f5f58fb-e058-4e0e-8947-213477a717f9-aee7d766-492f-42cb-b5c0-44744c2d8592,2020-12-21,First new bill in 18 months from vendor aee7d766-492f-42cb-b5c0-44744c2d8592,vendor_not_seen_in_a_while,invoice,1f5f58fb-e058-4e0e-8947-213477a717f9,aee7d766-492f-42cb-b5c0-44744c2d8592

@@ -1,0 +1,2 @@
+glean_id,glean_date,glean_text,glean_type,glean_location,invoice_id,canonical_vendor_id
+82628348-faac-4c6b-91c5-eea98a9bd7fb-9902c4c2-0232-461f-95be-4cca2af048e9,2020-12-21,First new bill in 14 months from vendor 9902c4c2-0232-461f-95be-4cca2af048e9,vendor_not_seen_in_a_while,invoice,82628348-faac-4c6b-91c5-eea98a9bd7fb,9902c4c2-0232-461f-95be-4cca2af048e9
